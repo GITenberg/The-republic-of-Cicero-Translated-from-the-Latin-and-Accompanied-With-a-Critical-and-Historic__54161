@@ -1,0 +1,37 @@
+_repo: The-republic-of-Cicero-Translated-from-the-Latin-and-Accompanied-With-a-Critical-and-Historic__54161
+_version: 0.0.1
+alternative_title: De republica. English
+contributor:
+  translator:
+    agent_name: Featherstonhaugh, George William
+    alias: Featherstonhaugh, G. W. (George William)
+    birthdate: 1780
+    deathdate: 1866
+    gutenberg_agent_id: '47738'
+    url: http://www.gutenberg.org/2009/agents/47738
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2017-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54161'
+  lccn: '44020946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Early works to 1800'
+- !lcc 'PA'
+- !lcsh 'State, The -- Early works to 1800'
+- GITenberg
+title: "The republic of Cicero\r\nTranslated from the Latin; and Accompanied With\
+  \ a Critical and Historical Introduction."
+url: http://www.gutenberg.org/ebooks/54161
